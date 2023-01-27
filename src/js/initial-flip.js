@@ -1,0 +1,3 @@
+const initialFlip = () => {};
+
+export { initialFlip };

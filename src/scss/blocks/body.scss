@@ -1,7 +1,6 @@
 html {
 }
-body {
-  background-image: url(../assets/images/anubis.jpg);
-  background-size: contain;
-  filter: invert(1);
+body{
+    perspective: 500px;
+    background-color: rgb(24, 22, 22);
 }
